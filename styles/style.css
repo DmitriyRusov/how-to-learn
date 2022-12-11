@@ -368,7 +368,8 @@ margin: 20px 0 0; */
 
   background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
-  background-size: 877px 877px;
+  background-size: contain;
+  background-position: center;
 
   z-index: 1;
 }
